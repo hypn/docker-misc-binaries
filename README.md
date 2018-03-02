@@ -5,20 +5,39 @@
     docker run --rm -v `pwd`:/tmp hypnza/misc-binaries ./SOME_BINARY -SOME_ARG /tmp/SOME_FILE
 
 ### From [John Jumbo](https://github.com/magnumripper/JohnTheRipper) :
+
+	SIPdump
+	base64conv
 	bitlocker2john
+	calc_stat
+	cprepair
 	dmg2john
+	eapmd5tojohn
+	genmkvpwd
 	gpg2john
 	hccap2john
+	john
+	john-1.7.9
 	keepass2john
+	mkvcalcproba
+	pdf2john
 	putty2john
 	racf2john
 	rar2john
+	raw2dyna
+	ssh2john
+	tgtsnarf
 	uaf2john
+	unafs
+	undrop
+	unique
+	unshadow
 	vncpcap2john
 	wpapcap2john
 	zip2john
 
 ### From [Hashcat Utils](https://github.com/hashcat/hashcat-utils) :
+
 	cap2hccapx.bin
 	cleanup-rules.bin
 	combinator.bin
@@ -48,6 +67,7 @@
 	strip-bsr.bin
 
 ### From [QEMU](https://www.qemu.org/):
+
 	qemu-aarch64-static
 	qemu-alpha-static
 	qemu-arm-static
